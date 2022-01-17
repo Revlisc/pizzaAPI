@@ -1,0 +1,1 @@
+A basic CRUD web api built to learn .NET fundamentals.

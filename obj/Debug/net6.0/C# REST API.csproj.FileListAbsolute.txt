@@ -1,0 +1,27 @@
+C:\Users\dales\Desktop\C# REST API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\dales\Desktop\C# REST API\bin\Debug\net6.0\appsettings.json
+C:\Users\dales\Desktop\C# REST API\bin\Debug\net6.0\C# REST API.exe
+C:\Users\dales\Desktop\C# REST API\bin\Debug\net6.0\C# REST API.deps.json
+C:\Users\dales\Desktop\C# REST API\bin\Debug\net6.0\C# REST API.runtimeconfig.json
+C:\Users\dales\Desktop\C# REST API\bin\Debug\net6.0\C# REST API.dll
+C:\Users\dales\Desktop\C# REST API\bin\Debug\net6.0\ref\C# REST API.dll
+C:\Users\dales\Desktop\C# REST API\bin\Debug\net6.0\C# REST API.pdb
+C:\Users\dales\Desktop\C# REST API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\dales\Desktop\C# REST API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dales\Desktop\C# REST API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dales\Desktop\C# REST API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dales\Desktop\C# REST API\obj\Debug\net6.0\C# REST API.csproj.AssemblyReference.cache
+C:\Users\dales\Desktop\C# REST API\obj\Debug\net6.0\C# REST API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dales\Desktop\C# REST API\obj\Debug\net6.0\C# REST API.AssemblyInfoInputs.cache
+C:\Users\dales\Desktop\C# REST API\obj\Debug\net6.0\C# REST API.AssemblyInfo.cs
+C:\Users\dales\Desktop\C# REST API\obj\Debug\net6.0\C# REST API.csproj.CoreCompileInputs.cache
+C:\Users\dales\Desktop\C# REST API\obj\Debug\net6.0\C# REST API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dales\Desktop\C# REST API\obj\Debug\net6.0\C# REST API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dales\Desktop\C# REST API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\dales\Desktop\C# REST API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\dales\Desktop\C# REST API\obj\Debug\net6.0\scopedcss\bundle\C# REST API.styles.css
+C:\Users\dales\Desktop\C# REST API\obj\Debug\net6.0\C# REST API.csproj.CopyComplete
+C:\Users\dales\Desktop\C# REST API\obj\Debug\net6.0\C# REST API.dll
+C:\Users\dales\Desktop\C# REST API\obj\Debug\net6.0\ref\C# REST API.dll
+C:\Users\dales\Desktop\C# REST API\obj\Debug\net6.0\C# REST API.pdb
+C:\Users\dales\Desktop\C# REST API\obj\Debug\net6.0\C# REST API.genruntimeconfig.cache

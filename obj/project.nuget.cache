@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "KHcST2TNOTI1Eg2IituZEzT59TVtP1KOFxETZwl0h9/0bFf20PJ/BdGrGLGfDEOHqn61Ri9q/MyPlX06aVykMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dales\\Desktop\\C# REST API\\C# REST API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dales\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\dales\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\dales\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\dales\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\dales\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\dales\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
